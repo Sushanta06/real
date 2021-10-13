@@ -1,5 +1,5 @@
 #!/bin/bash
 #
-if [ ! -d test ];then
+if [ ! -d test ];then --
 	mkdir test
 fi
